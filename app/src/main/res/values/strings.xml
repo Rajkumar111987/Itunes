@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Itunes</string>
+
+    <string name="login_button_text">Sign In As Guest</string>
+    <string name="oculogx_header">Oculogx for Itunes</string>
+    <string name="artwork">Artwork</string>
+</resources>
